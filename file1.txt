@@ -1,0 +1,8 @@
+this is git class
+there are some linux command which we already learned
+cd----change directory
+mkdir---make folder
+ls----to see what folder contains
+touch---create file
+pwd---present working directory
+vi/nano---editorf
