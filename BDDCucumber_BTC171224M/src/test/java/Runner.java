@@ -7,5 +7,9 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(features= {"/Users/bittechconsulting/eclipse-workspace/BDDCucumber_BTC171224M/driven.feature"},tags= {"tag1"})
 
 public class Runner {
+	public void test1()
+	{
+		System.out.println("hi");
+	}
 
 }
